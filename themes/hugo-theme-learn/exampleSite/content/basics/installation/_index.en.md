@@ -79,7 +79,7 @@ Launch by using the following command:
 hugo serve
 ```
 
-Go to `http://localhost:54462`
+Go to `http://nguyenhothienthanh.github.io`
 
 You should notice three things:
 

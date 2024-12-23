@@ -77,7 +77,7 @@ Lancez la commande suivante :
 hugo serve
 ```
 
-Se rendre sur `http://localhost:54462`
+Se rendre sur `http://nguyenhothienthanh.github.io`
 
 Vous devriez voir trois choses:
 
