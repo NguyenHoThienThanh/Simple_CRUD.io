@@ -1,0 +1,5 @@
+baseURL = "http://localhost:54462/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+port = 54462
+
