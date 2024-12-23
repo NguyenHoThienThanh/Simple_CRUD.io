@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Create AWS Lambda Function on My New Hugo Site</title>
+    <link>http://localhost:5446/2-prerequiste/2.2-createiamrole/</link>
+    <description>Recent content in Create AWS Lambda Function on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:5446/2-prerequiste/2.2-createiamrole/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tạo AWS Lambda Function</title>
+      <link>http://localhost:5446/2-prerequiste/2.2-createiamrole/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5446/2-prerequiste/2.2-createiamrole/_index.vi/</guid>
+      <description>&lt;h3 id=&#34;tao-iam-role&#34;&gt;Tạo IAM Role&lt;/h3&gt;&#xA;&lt;p&gt;Trong bước này chúng ta sẽ tiến hành Tạo AWS Lambda Function. Trong IAM Role này sẽ được gán policy &lt;strong&gt;AmazonSSMManagedInstanceCore&lt;/strong&gt;, đây là policy cho phép máy chủ EC2 có thể giao tiếp với Session Manager.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Truy cập vào &lt;a href=&#34;https://console.aws.amazon.com/iamv2/&#34;&gt;giao diện quản trị dịch vụ IAM&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ở thanh điều hướng bên trái, click  &lt;strong&gt;Roles&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:5446/images/2/35.png&#34; alt=&#34;role&#34;&gt;&lt;/p&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Chọn &lt;strong&gt;AWS service&lt;/strong&gt;, sau đó chọn &lt;strong&gt;EC2&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:5446/images/2/36.png&#34; alt=&#34;role&#34;&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tại thanh tìm kiếm, nhập &lt;strong&gt;AmazonSSMManagedInstanceCore&lt;/strong&gt; và nhấn enter để tìm kiếm policy này.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

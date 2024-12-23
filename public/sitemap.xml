@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:54462/</loc>
+    <loc>http://localhost:5446/</loc>
     <lastmod>1970-01-01T07:33:41+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:54462/4-createapi/4.1-createnewapi/_index.vi/</loc>
+    <loc>http://localhost:5446/4-s3log/4.1-updateiamrole/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/_index.vi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.1-public-instance/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.1-public-instance/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.1-endpointssm/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.1-endpointssm/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.1-downloadawscli/</loc>
+    <loc>http://localhost:5446/4-s3log/4.1-updateiamrole/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.1-enablevpcdns/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.1-createvpc/</loc>
   </url><url>
-    <loc>http://localhost:54462/1-introduce/_index.vi/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.1-enablevpcdns/</loc>
   </url><url>
-    <loc>http://localhost:54462/1-introduce/</loc>
+    <loc>http://localhost:5446/1-introduce/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.1-public-instance/_index.vi/</loc>
+    <loc>http://localhost:5446/1-introduce/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.1-enablevpcdns/_index.vi/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.1-public-instance/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.1-enablevpcdns/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/_index.vi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.1-downloadawscli/_index.vi/</loc>
+    <loc>http://localhost:5446/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.1-endpointssm/_index.vi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.1-createvpc/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/4-createapi/4.1-createnewapi/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.1-endpointssm/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/_index.vi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.2-configureawscli/_index.vi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.2-createpublicsubnet/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.2-configureawscli/</loc>
+    <loc>http://localhost:5446/4-s3log/4.2-creates3bucket/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.2-createpublicsubnet/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.2-createiamrole/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.2-endpointssmmessages/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.2-createiamrole/</loc>
   </url><url>
-    <loc>http://localhost:54462/4-createapi/4.2-configureapi/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.2-endpointssmmessages/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.2-createvpcendpoint/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/</loc>
+    <loc>http://localhost:5446/2-prerequiste/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.2-createvpcendpoint/_index.vi/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.2-createiamrole/_index.vi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.2-createiamrole/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.2-endpointssmmessages/_index.vi/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.2-endpointssmmessages/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/_index.vi/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/4-createapi/4.2-configureapi/_index.vi/</loc>
+    <loc>http://localhost:5446/4-s3log/4.2-creates3bucket/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.3-connectec2/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.3-connectec2/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.3-endpointec2messages/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.3-endpointec2messages/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.3-createprivatesubnet/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.3-createprivatesubnet/</loc>
   </url><url>
-    <loc>http://localhost:54462/4-createapi/4.3-integratelambda/</loc>
+    <loc>http://localhost:5446/4-s3log/4.3-creategwes3/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.3-connectec2/_index.vi/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.3-connectec2/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.3-endpointec2messages/_index.vi/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.3-endpointec2messages/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/3-createlambda/_index.vi/</loc>
+    <loc>http://localhost:5446/3-accessibilitytoinstances/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.3-createprivatesubnet/_index.vi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.3-createprivatesubnet/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/4-createapi/4.3-integratelambda/_index.vi/</loc>
+    <loc>http://localhost:5446/4-s3log/4.3-creategwes3/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.4-createsecgroup/</loc>
+    <loc>http://localhost:5446/4-s3log/</loc>
   </url><url>
-    <loc>http://localhost:54462/4-createapi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.4-createsecgroup/</loc>
   </url><url>
-    <loc>http://localhost:54462/4-createapi/4.4-configsessionlogs/</loc>
+    <loc>http://localhost:5446/4-s3log/4.4-configsessionlogs/</loc>
   </url><url>
-    <loc>http://localhost:54462/4-createapi/_index.vi/</loc>
+    <loc>http://localhost:5446/4-s3log/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.4-createsecgroup/_index.vi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.4-createsecgroup/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/4-createapi/4.4-configsessionlogs/_index.vi/</loc>
+    <loc>http://localhost:5446/4-s3log/4.4-configsessionlogs/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.5-createec2linux/</loc>
+    <loc>http://localhost:5446/5-portfwd/</loc>
   </url><url>
-    <loc>http://localhost:54462/5-uianddeploy/</loc>
+    <loc>http://localhost:5446/5-portfwd/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/5-uianddeploy/_index.vi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.5-createec2linux/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.5-createec2linux/_index.vi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.5-createec2linux/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/6-cleanup/</loc>
+    <loc>http://localhost:5446/6-cleanup/</loc>
     <lastmod>1970-01-01T07:33:41+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:54462/6-cleanup/_index.vi/</loc>
+    <loc>http://localhost:5446/6-cleanup/_index.vi/</loc>
     <lastmod>1970-01-01T07:33:41+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.6-createec2windows/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.6-createec2windows/</loc>
   </url><url>
-    <loc>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.6-createec2windows/_index.vi/</loc>
+    <loc>http://localhost:5446/2-prerequiste/2.1-createec2/2.1.6-createec2windows/_index.vi/</loc>
   </url><url>
-    <loc>http://localhost:54462/categories/</loc>
+    <loc>http://localhost:5446/categories/</loc>
   </url><url>
-    <loc>http://localhost:54462/tags/</loc>
+    <loc>http://localhost:5446/tags/</loc>
   </url>
 </urlset>

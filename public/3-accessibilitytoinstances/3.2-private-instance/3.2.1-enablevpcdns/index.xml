@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enable DNS hostnames on My New Hugo Site</title>
+    <link>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.1-enablevpcdns/</link>
+    <description>Recent content in Enable DNS hostnames on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.1-enablevpcdns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kích hoạt DNS hostnames</title>
+      <link>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.1-enablevpcdns/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.1-enablevpcdns/_index.vi/</guid>
+      <description>&lt;h4 id=&#34;kích-hoạt-tính-năng-dns-hostnames-trên-vpc&#34;&gt;Kích hoạt tính năng DNS hostnames trên VPC.&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Để tạo được VPC Endpoint chúng ta sẽ cần bật tính năng &lt;strong&gt;DNS hostnames&lt;/strong&gt; trên VPC.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Truy cập đến &lt;a href=&#34;https://console.aws.amazon.com/vpc/home&#34;&gt;giao diện quản trị của dịch vụ VPC&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Your VPCs&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Chọn &lt;strong&gt;Lab VPC&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Actions&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Edit VPC settings&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:5446/images/2/44.png&#34; alt=&#34;Connect&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;DNS setting&lt;/strong&gt;.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;tick&lt;/strong&gt; cho &lt;strong&gt;Enable DNS hostnames&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Save&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:5446/images/2/45.png&#34; alt=&#34;Connect&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
