@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Download AWS CLI on My New Hugo Site</title>
-    <link>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.1-downloadawscli/</link>
+    <link>http://nguyenhothienthanh.github.io/2-prerequiste/2.1-prepareawscli/2.1.1-downloadawscli/</link>
     <description>Recent content in Download AWS CLI on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.1-downloadawscli/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://nguyenhothienthanh.github.io/2-prerequiste/2.1-prepareawscli/2.1.1-downloadawscli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tải AWS CLI </title>
-      <link>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.1-downloadawscli/_index.vi/</link>
+      <link>http://nguyenhothienthanh.github.io/2-prerequiste/2.1-prepareawscli/2.1.1-downloadawscli/_index.vi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54462/2-prerequiste/2.1-prepareawscli/2.1.1-downloadawscli/_index.vi/</guid>
-      <description>&lt;h4 id=&#34;tạo-vpc-lab-vpc&#34;&gt;Tải AWS CLI &lt;strong&gt;Lab VPC&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Truy cập &lt;a href=&#34;https://console.aws.amazon.com/vpc/home&#34;&gt;giao diện quản trị dịch vụ VPC&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Your VPC&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Download AWS CLI&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:54462/images/2/1.png&#34; alt=&#34;VPC&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Tại trang &lt;strong&gt;Download AWS CLI&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;Resource to create&lt;/strong&gt; chọn: &lt;strong&gt;VPC only&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;Name tag&lt;/strong&gt; điền &lt;strong&gt;Lab VPC&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;IPv4 CIDR&lt;/strong&gt; điền : &lt;strong&gt;10.10.0.0/16&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Download AWS CLI&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:54462/images/2/2.png&#34; alt=&#34;VPC&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://nguyenhothienthanh.github.io/2-prerequiste/2.1-prepareawscli/2.1.1-downloadawscli/_index.vi/</guid>
+      <description>&lt;h4 id=&#34;tạo-vpc-lab-vpc&#34;&gt;Tải AWS CLI &lt;strong&gt;Lab VPC&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Truy cập &lt;a href=&#34;https://console.aws.amazon.com/vpc/home&#34;&gt;giao diện quản trị dịch vụ VPC&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Your VPC&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Download AWS CLI&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://nguyenhothienthanh.github.io/images/2/1.png&#34; alt=&#34;VPC&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Tại trang &lt;strong&gt;Download AWS CLI&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;Resource to create&lt;/strong&gt; chọn: &lt;strong&gt;VPC only&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;Name tag&lt;/strong&gt; điền &lt;strong&gt;Lab VPC&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;IPv4 CIDR&lt;/strong&gt; điền : &lt;strong&gt;10.10.0.0/16&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Download AWS CLI&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://nguyenhothienthanh.github.io/images/2/2.png&#34; alt=&#34;VPC&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-baseURL = "https://nguyenhothienthanh.github.io/Simple_CRUD.io/"
+baseURL = "https://nguyenhothienthanh.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 port = 54462
