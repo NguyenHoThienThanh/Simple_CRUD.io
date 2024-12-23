@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Create AWS API Gateway on My New Hugo Site</title>
+    <link>http://localhost:54462/4-createapi/</link>
+    <description>Recent content in Create AWS API Gateway on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:54462/4-createapi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quản lý session logs</title>
+      <link>http://localhost:54462/4-createapi/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54462/4-createapi/_index.vi/</guid>
+      <description>&lt;p&gt;Với Session Manager chúng ta có thể xem được lịch sử các kết nối tới các instance thông qua &lt;strong&gt;Session history&lt;/strong&gt;. Tuy nhiên chúng ta chưa xem được chi tiết các câu lệnh được sử dụng.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:54462/images/2/59.png&#34; alt=&#34;S3&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Trong phần này chúng ta sẽ tiến hành tạo S3 bucket và thực hiện cấu hình lưu trữ các session logs để xem được chi tiết các câu lệnh được sử dụng trong session.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Create new AWS API Gateway on My New Hugo Site</title>
+    <link>http://localhost:5446/4-s3log/4.1-updateiamrole/</link>
+    <description>Recent content in Create new AWS API Gateway on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:5446/4-s3log/4.1-updateiamrole/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cập nhật IAM Role</title>
+      <link>http://localhost:5446/4-s3log/4.1-updateiamrole/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5446/4-s3log/4.1-updateiamrole/_index.vi/</guid>
+      <description>&lt;p&gt;Để các EC2 instance của chúng ta có thể gửi session log tới S3 bucket , chúng ta sẽ cần cập nhật IAM Role đã gán vào EC2 instance bằng cách thêm vào policy cho phép quyền truy cập vào S3.&lt;/p&gt;&#xA;&lt;h4 id=&#34;cập-nhật-iam-role&#34;&gt;Cập nhật IAM Role&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Truy cập vào &lt;a href=&#34;https://console.aws.amazon.com/iamv2/home?#/home&#34;&gt;giao diện quản trị dịch vụ IAM&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Roles&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Tại ô tìm kiếm , điền &lt;strong&gt;SSM&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click vào role &lt;strong&gt;SSM-Role&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:5446/images/2/60.png&#34; alt=&#34;S3&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Click &lt;strong&gt;Attach policies&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:5446/images/2/61.png&#34; alt=&#34;S3&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

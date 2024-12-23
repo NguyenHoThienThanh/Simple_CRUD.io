@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Create Endpoint ssmmessages on My New Hugo Site</title>
+    <link>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.2-endpointssmmessages/</link>
+    <description>Recent content in Create Endpoint ssmmessages on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.2-endpointssmmessages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tạo Endpoint ssmmessages</title>
+      <link>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.2-endpointssmmessages/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5446/3-accessibilitytoinstances/3.2-private-instance/3.2.2-createvpcendpoint/3.2.2.2-endpointssmmessages/_index.vi/</guid>
+      <description>&lt;h4 id=&#34;tải-aws-cli-endpoint-ssmmessages&#34;&gt;Tải AWS CLI Endpoint SSMMESSAGES&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Truy cập đến &lt;a href=&#34;https://console.aws.amazon.com/vpc/home&#34;&gt;giao diện quản trị của dịch vụ VPC&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Endpoints&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Create endpoint&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tại trang &lt;strong&gt;Create endpoint&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;Name tag&lt;/strong&gt; điền &lt;strong&gt;SSMMESSAGES&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;Service Category&lt;/strong&gt; chọn &lt;strong&gt;AWS Services&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;Services&lt;/strong&gt;,&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tại thanh &lt;strong&gt;Search&lt;/strong&gt; nhập: &lt;strong&gt;.ssmmessages&lt;/strong&gt;, sau đó chọn &lt;strong&gt;Service Name: com.amazonaws.ap-southeast-1.ssmmessages&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:5446/images/2/50.png&#34; alt=&#34;Connect&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;VPC&lt;/strong&gt;, chọn &lt;strong&gt;Lab VPC&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Chọn AZ đầu tiên, sau đó chọn subnet &lt;strong&gt;Lab Private Subnet&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;Security Group&lt;/strong&gt;, chọn Security group &lt;strong&gt;SG VPC Endpoint&lt;/strong&gt; mà chúng ta đã tạo trước đó.&lt;/li&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;Policy&lt;/strong&gt;, chọn &lt;strong&gt;Full access&lt;/strong&gt;&#xA;&lt;img src=&#34;http://localhost:5446/images/2/51.png&#34; alt=&#34;Connect&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Kéo chuột xuống dưới cùng.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
