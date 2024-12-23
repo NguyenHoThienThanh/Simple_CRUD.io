@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Create AWS API Gateway on My New Hugo Site</title>
+    <link>http://localhost:54462/5-uianddeploy/</link>
+    <description>Recent content in Create AWS API Gateway on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:54462/5-uianddeploy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create AWS API Gateway</title>
+      <link>http://localhost:54462/5-uianddeploy/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54462/5-uianddeploy/_index.vi/</guid>
+      <description>&lt;p&gt;Chúng ta sẽ cấu hình &lt;strong&gt;Create AWS API Gateway&lt;/strong&gt; cho kết nối RDP giữa máy của mình với &lt;strong&gt;Private Windows Instance&lt;/strong&gt; nằm trong private subnet mà chúng ta đã tạo cho bài thực hành này.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:54462/images/arc-04.png&#34; alt=&#34;port-fwd&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;tạo-iam-user-có-quyền-kết-nối-ssm&#34;&gt;Tạo IAM User có quyền kết nối SSM&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Truy cập vào &lt;a href=&#34;https://console.aws.amazon.com/iamv2/home&#34;&gt;giao diện quản trị dịch vụ IAM&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Users&lt;/strong&gt; , sau đó click &lt;strong&gt;Add users&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:54462/images/2/74.png&#34; alt=&#34;FWD&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tại trang &lt;strong&gt;Create user&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tại mục &lt;strong&gt;User name&lt;/strong&gt;, điền &lt;strong&gt;Portfwd&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Next&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:54462/images/2/75.png&#34; alt=&#34;FWD&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tại trang &lt;strong&gt;Set permission&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connect to Public Instance on My New Hugo Site</title>
+    <link>http://localhost:54462/3-accessibilitytoinstances/3.1-public-instance/</link>
+    <description>Recent content in Connect to Public Instance on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:54462/3-accessibilitytoinstances/3.1-public-instance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kết nối đến máy chủ Public</title>
+      <link>http://localhost:54462/3-accessibilitytoinstances/3.1-public-instance/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54462/3-accessibilitytoinstances/3.1-public-instance/_index.vi/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:54462/images/arc-02.png&#34; alt=&#34;SSMPublicinstance&#34;&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Truy cập vào &lt;a href=&#34;https://console.aws.amazon.com/ec2/v2/home&#34;&gt;giao diện quản trị của dịch vụ EC2&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Click chọn &lt;strong&gt;Public Linux Instance&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Actions&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Security&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Modify IAM role&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:54462/images/2/39.png&#34; alt=&#34;Connect&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tại trang Modify IAM role.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Click chọn &lt;strong&gt;SSM-Role&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Create new AWS API Gateway&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:54462/images/2/40.png&#34; alt=&#34;Connect&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Truy cập vào &lt;a href=&#34;https://console.aws.amazon.com/systems-manager/home&#34;&gt;giao diện quản trị của dịch vụ AWS Systems Manager&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kéo thanh trượt menu bên trái xuống dưới.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Session Manager&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Click &lt;strong&gt;Start Session&lt;/strong&gt;.&#xA;&lt;img src=&#34;http://localhost:54462/images/2/41.png&#34; alt=&#34;Connect&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sau đó chọn &lt;strong&gt;Public Linux Instance&lt;/strong&gt; và click &lt;strong&gt;Start session&lt;/strong&gt; để truy cập vào instance.&#xA;&lt;img src=&#34;http://localhost:54462/images/2/42.png&#34; alt=&#34;Connect&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

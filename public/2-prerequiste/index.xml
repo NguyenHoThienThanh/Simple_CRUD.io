@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preparation  on My New Hugo Site</title>
+    <link>http://localhost:54462/2-prerequiste/</link>
+    <description>Recent content in Preparation  on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:54462/2-prerequiste/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Các bước chuẩn bị</title>
+      <link>http://localhost:54462/2-prerequiste/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54462/2-prerequiste/_index.vi/</guid>
+      <description>&lt;p&gt;Để tìm hiểu cách tạo các EC2 instance và VPC với public/private subnet các bạn có thể tham khảo bài lab :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://000004.awsstudygroup.com/vi/&#34;&gt;Giới thiệu về Amazon EC2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://000003.awsstudygroup.com/vi/&#34;&gt;Làm việc với Amazon VPC&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Để sử dụng System Manager để quản lý window instance nói riêng và các instance nói chung của chúng ta trên AWS, ta cần phải cung cấp quyền cho các instance của chúng ta có thể làm việc với System Manager.Trong phần chuẩn bị này, chúng ta cũng sẽ tiến hành Tạo AWS Lambda Function để cấp quyền cho các instance có thể làm việc với System Manager.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
